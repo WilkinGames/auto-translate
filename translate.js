@@ -4,7 +4,7 @@
  * https://wilkingames.com
  */
 const INPUT_PATH = "./json/localization.json";
-const OUTPUT_PATH = "";
+const OUTPUT_PATH = "./output/localization.json";
 const log = console.log;
 const chalk = require("chalk");
 const fs = require("fs");
